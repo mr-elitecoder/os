@@ -62,7 +62,7 @@ gcc receiver.c -o receiver -lrt
 
 - [ ] Lab 1: Producer–Consumer
 - [ ] Lab 2: Shared Memory
-- [ ] Lab 3: Message Queues
+- [x ] Lab 3: Message Queues
 - [ ] Lab 4: Pipes
 - [ ] Lab 5: Sockets
 - [ ] Lab 6: RPC
